@@ -1,0 +1,12 @@
+{
+    "name": "juancho/tax_test_app",
+    "description": "TaxApplication",
+    "type": "project",
+    "authors": [
+        {
+            "name": "juanchitot",
+            "email": "juanchitot@gmail.com"
+        }
+    ],
+    "require": {}
+}
